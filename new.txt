@@ -1,0 +1,4 @@
+Bogdanov Dmitriy
+age - 39
+pet - 0
+salary - 2400$
